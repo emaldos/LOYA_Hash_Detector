@@ -1,4 +1,5 @@
-# LOYA Hash Detector v1.0.0 [![Python Version](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://python.org) [![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20Kali-informational.svg)](#tested-platforms) [![Dependencies](https://img.shields.io/badge/dependencies-standard%20library-success.svg)](Requirements.txt) [![Status](https://img.shields.io/badge/status-tested-success.svg)](#tested-platforms)
+# LOYA Hash Detector v1.0.0 
+[![Python Version](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://python.org) [![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20Kali-informational.svg)](#tested-platforms) [![Dependencies](https://img.shields.io/badge/dependencies-standard%20library-success.svg)](Requirements.txt) [![Status](https://img.shields.io/badge/status-tested-success.svg)](#tested-platforms)
 
 ![LOYA Hash Detector Demo](Doc/loya-hash-detector-demo.gif)
 
